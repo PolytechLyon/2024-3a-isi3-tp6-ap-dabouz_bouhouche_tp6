@@ -1,6 +1,8 @@
 # Compte Rendu du TP 1 : Patrons de Conceptions
 
 Noms des étudiants du binôme :
+Mohammed Dabouz
+Yanis Bouhouche
 
 ## Exercices 1
 
