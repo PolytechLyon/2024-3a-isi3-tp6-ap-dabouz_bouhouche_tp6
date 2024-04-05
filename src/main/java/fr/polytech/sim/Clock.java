@@ -9,6 +9,10 @@ public class Clock {
 
     private static Clock clock = null;
 
+    private Clock() {
+
+    }
+
     public static Clock getInstance() {
         if (clock == null) {
             clock = new Clock();
@@ -24,3 +28,4 @@ public class Clock {
         return this.time;
     }
 }
+
