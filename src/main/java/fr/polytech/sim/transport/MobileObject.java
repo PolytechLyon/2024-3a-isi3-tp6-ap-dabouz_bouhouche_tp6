@@ -1,5 +1,7 @@
 package fr.polytech.sim.transport;
 
+import fr.polytech.sim.log.Logger;
+
 /**
  * Any object with velocity and mass.
  */
